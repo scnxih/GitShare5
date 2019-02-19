@@ -2,6 +2,6 @@
 data test;
 	set sashelp.class;
 run;
-proc print data=test;
+proc print data=sashlep.cars;
 run;
 dd
