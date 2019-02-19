@@ -4,6 +4,3 @@ data test;
 run;
 proc print data=sashlep.cars;
 run;
-mm
-=======
-dd
